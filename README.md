@@ -8,6 +8,11 @@ It is made using Python3 and MySQL.
 
 Before running the code, make sure the following libraries are installed.
 
+* tkinter
+* re
+* pyautogui
+* mysql.connnector
+
 You can install them by running the following commands
 
 ```bash
