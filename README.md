@@ -1,4 +1,4 @@
-# Movie Booking
+# MovieMania - The best Movie booking app
 
 This is the first Python project I built. It was a cinema booking app which lets the user select the movie with the shows and timings and stores the information in the backend. 
 
